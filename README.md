@@ -20,6 +20,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=suyashpatil400&count_private=true&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgioFe&count_private=true&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suyashpatil400&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgioFe&show_icons=true&theme=radical)
