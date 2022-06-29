@@ -21,6 +21,6 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgioFe&count_private=true&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgioFe&count_private=true&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgioFe&show_icons=true&theme=radical)
