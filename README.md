@@ -3,6 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
+Welcome to my github profile, I am a process-oriented computer engineer, lifelong learner, and adventurer with a professional background in computer software engineering. Motivated by the opportunity that the tech industry provides to positively impact the life of an individual, and the world as a whole.
+
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
