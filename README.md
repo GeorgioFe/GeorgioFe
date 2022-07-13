@@ -5,9 +5,9 @@
 
 ---
 <div>
-<h3>About me</h3>
-  <p style="text-indent: 25px;">Welcome to my github profile, I am a process-oriented computer engineering student, lifelong learner, and adventurer with a professional background in computer software engineering. Motivated by the opportunity that the tech industry provides to positively impact the life of an individual, and the world as a whole.</p>
-  <p style="text-indent: 25px;">Currently a junior in Computer Engineering at the University of California, San Diego.</p>
+  <h3>About me</h3>
+    <p style="text-indent: 25px;">Welcome to my github profile, I am a process-oriented computer engineering student, lifelong learner, and adventurer with a professional background in computer software engineering. Motivated by the opportunity that the tech industry provides to positively impact the life of an individual, and the world as a whole.</p>
+    <p style="text-indent: 25px;">Currently a junior in Computer Engineering at the University of California, San Diego.</p>
 </div>
 
 
