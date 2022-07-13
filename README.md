@@ -6,9 +6,9 @@
 ---
 <h3>About me</h3>
 
-> Welcome to my github profile, I am a process-oriented computer engineering student, lifelong learner, and adventurer with a professional background in computer software engineering. Motivated by the opportunity that the tech industry provides to positively impact the life of an individual, and the world as a whole.
+&nbsp;Welcome to my github profile, I am a process-oriented computer engineering student, lifelong learner, and adventurer with a professional background in computer software engineering. Motivated by the opportunity that the tech industry provides to positively impact the life of an individual, and the world as a whole.
 
-> Currently a junior in Computer Engineering at the University of California, San Diego.
+&nbsp;Currently a junior in Computer Engineering at the University of California, San Diego.
 
 ---
 
