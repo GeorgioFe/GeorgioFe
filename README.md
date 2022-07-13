@@ -36,7 +36,9 @@
 
 <h3>Github Stats</h3>
 <div align="center">
+  
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgioFe&count_private=true&show_icons=true&theme=tokyonight)
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgioFe&show_icons=true&theme=tokyonight)
+  
 </div>
