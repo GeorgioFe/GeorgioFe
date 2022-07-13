@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Georgio - AKA GeorgioFe✌🏽</h1>
 <h3 align="center">Software Engineering - UI/UX Design - AI/ML</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
