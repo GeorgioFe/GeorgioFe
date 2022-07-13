@@ -1,5 +1,5 @@
 # Hi there, I'm Georgio - AKA [GeorgioFe](https://aquamarine-salamander-975f59.netlify.app)✌🏽
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/hacker-python-coding-glitch-gif-24209207">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
