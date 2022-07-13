@@ -15,7 +15,7 @@
 <a href="https://twitter.com/fe_ghali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/georgio-feghali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://www.instagram.com/georgiofe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-<a href="https://www.instagram.com/georgiofe/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1161/1161724.png" alt="rishav_chanda" height="30" width="30" /></a>
+<a href="giorgiofeghali2002@icloud.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1161/1161724.png" alt="rishav_chanda" height="30" width="40" /></a>
 
 ---
 
