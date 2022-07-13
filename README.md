@@ -1,3 +1,4 @@
+![MasterHead](https://tenor.com/view/hello-world-gif-18564330)
 # Hi there, I'm Georgio - AKA [GeorgioFe](https://aquamarine-salamander-975f59.netlify.app)✌🏽
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
