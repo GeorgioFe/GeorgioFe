@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 ---
-<h3>About me</h3>
+<h3>About me ℹ️</h3>
 
 &nbsp;&nbsp;&nbsp;Welcome to my github profile, I am a process-oriented computer engineering student, lifelong learner, and adventurer with a professional background in computer software engineering. Motivated by the opportunity that the tech industry provides to positively impact the life of an individual, and the world as a whole.
 
@@ -12,7 +12,7 @@
 
 ---
 
-<h3>Languages and Tools</h3>
+<h3>Languages and Tools 🛠</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -36,7 +36,7 @@
 
 ---
 
-<h3>My Github Stats</h3>
+<h3>My Github Stats 📊</h3>
 <div align="center">
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgioFe&count_private=true&show_icons=true&theme=tokyonight)
