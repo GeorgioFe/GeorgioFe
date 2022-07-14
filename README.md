@@ -46,7 +46,7 @@
 ---
 
 <h3>My Github Stats 📊</h3>
-<div align="center">
+<div align="right">
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgioFe&count_private=true&show_icons=true&theme=tokyonight)
 
