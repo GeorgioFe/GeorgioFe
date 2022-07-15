@@ -10,6 +10,12 @@
 
 &nbsp;&nbsp;&nbsp;Currently a junior in Computer Engineering at the University of California, San Diego.
 
+<h3>More facts about me</h3>
+
+* Currently learning React.JS ⚛️
+* I'm an F1 superfan 🏎 🤓
+* Enthusiastic about anything in the engineering world ⚙️👨🏾‍💻
+
 <h3>Connect with me 🔗</h3>
 
 <a href="https://twitter.com/fe_ghali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
