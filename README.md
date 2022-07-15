@@ -13,7 +13,7 @@
 <h3>More facts about me</h3>
 
 * Currently learning React.JS ⚛️
-* I'm an F1 superfan 🏎 🤓
+* Formula 1 nerd 🏎 🤓
 * Enthusiastic about anything in the engineering world ⚙️👨🏾‍💻
 
 <h3>Connect with me 🔗</h3>
