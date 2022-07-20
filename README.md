@@ -56,6 +56,6 @@
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgioFe&count_private=true&show_icons=true&theme=tokyonight)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgioFe&show_icons=true&theme=tokyonight)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgioFe&show_icons=true&layout=compact&langs_count=10&theme=tokyonight)
   
 </div>
