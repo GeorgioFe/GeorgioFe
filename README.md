@@ -6,15 +6,9 @@
 ---
 <h3>About me ℹ️</h3>
 
-&nbsp;&nbsp;&nbsp;Welcome to my github profile, I am a process-oriented computer engineering student, lifelong learner, and adventurer with a professional background in computer software engineering. Motivated by the opportunity that the tech industry provides to positively impact the life of an individual, and the world as a whole.
+&nbsp;&nbsp;&nbsp;Welcome to my github profile, I am a process-oriented computer engineering student, lifelong learner, and adventurer with a professional background in software engineering. Motivated by the opportunity that the tech industry provides to positively impact the life of an individual, and the world as a whole.
 
-&nbsp;&nbsp;&nbsp;Currently a junior in Computer Engineering at the University of California, San Diego. 🔱
-
-<h3>More facts about me</h3>
-
-* Currently learning React.JS ⚛️
-* Formula 1 nerd 🏎 🤓
-* Enthusiastic about anything in the engineering world ⚙️👨🏾‍💻
+&nbsp;&nbsp;&nbsp;Currently a senior in Computer Engineering at the University of California, San Diego. 🔱
 
 <h3>Connect with me 🔗</h3>
 
