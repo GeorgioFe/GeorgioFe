@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Georgio - aka GeorgioFe✌🏽</h1>
-<h3 align="center">Software Engineering - UI/UX Design - AI/ML</h3>
+<h3 align="center">Software Engineering - Machine Learning - Quantum Computing</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
